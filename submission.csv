@@ -4,7 +4,7 @@ id,class
 2,Melanoma
 3,Melanoma
 4,Not Melanoma
-5,Melanoma
+5,Not Melanoma
 6,Not Melanoma
 7,Melanoma
 8,Not Melanoma
@@ -13,20 +13,20 @@ id,class
 11,Melanoma
 12,Melanoma
 13,Not Melanoma
-14,Melanoma
+14,Not Melanoma
 15,Not Melanoma
 16,Not Melanoma
 17,Not Melanoma
 18,Not Melanoma
 19,Not Melanoma
-20,Melanoma
+20,Not Melanoma
 21,Melanoma
 22,Not Melanoma
 23,Not Melanoma
 24,Not Melanoma
 25,Not Melanoma
-26,Melanoma
+26,Not Melanoma
 27,Not Melanoma
 28,Melanoma
 29,Not Melanoma
-30,Not Melanoma
+30,Melanoma
